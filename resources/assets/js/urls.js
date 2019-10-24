@@ -1,0 +1,6 @@
+export const baseUrl = 'https://www.eximbankghana.com/'
+export const attachPermissionUrl = baseUrl + 'admin/attachPermission'
+export const uploadImageUrl = baseUrl + 'admin/uploadImage'
+export const uploadNews = baseUrl + 'admin/newsCuts'
+export const deleteUser = baseUrl + 'admin/deleteUser'
+export const getRolePermissions = baseUrl + 'admin/rolePermissions'
